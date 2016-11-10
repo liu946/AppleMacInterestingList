@@ -171,6 +171,10 @@ Mac系统管理，软件很受欢迎但是本人认为MAC不需要清理，使�
 - TextWrangler.app
 无特点的编辑器
 
+- Quiver.app
+推荐度：5
+程序员的笔记本。可建立多个笔记本，添加自定义标签；支持 Text Cell、Code Cell、Markdown Cell、LaTex Cell、Diagram Cell; 所有笔记本统一保存在 `Quiver.qvlibrary`，配合 Dropbox、Google Drive 等食用最佳
+
 
 ## Office套件
 
@@ -417,3 +421,11 @@ Mac的文件传输利器，这个软件好在快平台，web，浏览器插件�
 - Moom.app 
 推荐度：4
 窗口缩放程序，强力推荐的。相当于补充了win的全屏和半屏功能。
+
+- SmoothScroll
+推荐度：4
+Mac 不用鼠标的原因绝对是因为在 Mac 上使用普通鼠标的体验太渣、使用 magic mouse 手疼。这款软件可以改变鼠标滚轮的控制方向，还能让滚轮滚起来丝般顺滑。
+
+- Scroll Reverser
+推荐度：3
+改变鼠标滚轮的控制方向
